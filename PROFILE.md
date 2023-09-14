@@ -1,1 +1,3 @@
-welcome to my Github profile!
+welcome to my github profile 
+have a nice day
+thank you
